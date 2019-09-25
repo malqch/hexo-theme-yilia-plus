@@ -1,25 +1,6 @@
 hexo-theme-yilia-plus
 ================
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-![star](https://img.shields.io/github/stars/JoeyBling/hexo-theme-yilia-plus "star")
-![fork](https://img.shields.io/github/forks/JoeyBling/hexo-theme-yilia-plus "fork")
-![GitHub Last Commit](https://img.shields.io/github/last-commit/JoeyBling/hexo-theme-yilia-plus.svg?label=commits "GitHub Last Commit")
-![issues](https://img.shields.io/github/issues/JoeyBling/hexo-theme-yilia-plus "issues")
-[![Author](https://img.shields.io/badge/Author-JoeyBling-red.svg "Author")](https://zhousiwei.gitee.io "Author")
-[![Hexo Version](https://img.shields.io/badge/hexo-%3E%3D%203.0-blue.svg)](http://hexo.io)
-[![博客搭建交流群](https://img.shields.io/badge/QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
-
-
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 &#160;&#160;&#160;&#160;此项目是根据[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)主题做了一些优化和改动，写这个项目的初衷就是深入学习`Hexo`。使用`yilia`主题可以快速迁移到`yilia-plus`
 
 #### [立即体验](#三开始使用)
@@ -28,15 +9,7 @@ hexo-theme-yilia-plus
 
 > **同时也欢迎相同爱好者加入一起维护此项目**
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## 关于[hexo-theme-yilia-plus](https://github.com/malqch/hexo-theme-yilia-plus)主题在原基础上做了以下功能升级
-=======
-## 关于[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus)主题在原基础上做了以下功能升级
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-## 关于[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus)主题在原基础上做了以下功能升级
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 1. 手机端头像添加主页跳转链接
 2. 集成不蒜子访问量统计功能
 3. 网易云音乐插件
@@ -46,18 +19,8 @@ hexo-theme-yilia-plus
 7. 页脚 Litten自定义(弃用)
 8. 添加版权声明
 9. 添加百度站长平台主动推送
-<<<<<<< HEAD
-<<<<<<< HEAD
 10. 集成 gitment 评论
 11. 集成码云评论
-=======
-10. 集成 gitment 评论 ➡️ [https://github.com/JoeyBling/yilia-plus-demo](https://github.com/JoeyBling/yilia-plus-demo)
-11. [集成码云评论](https://gitee.com/zhousiwei/giteement) ➡️ [https://gitee.com/zhousiwei/yilia-plus-demo](https://gitee.com/zhousiwei/yilia-plus-demo)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-10. 集成 gitment 评论 ➡️ [https://github.com/JoeyBling/yilia-plus-demo](https://github.com/JoeyBling/yilia-plus-demo)
-11. [集成码云评论](https://gitee.com/zhousiwei/giteement) ➡️ [https://gitee.com/zhousiwei/yilia-plus-demo](https://gitee.com/zhousiwei/yilia-plus-demo)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 12. 添加网站成立年份
 13. 页面加载进度条
 14. 添加苹果图标
@@ -69,18 +32,8 @@ hexo-theme-yilia-plus
 20. 添加悬停预览图片效果
 21. 其他样式轻微调优、社交图标优化
 22. 优化配置是否在新窗口打开链接
-<<<<<<< HEAD
-<<<<<<< HEAD
 23. fix bugs
 24. 添加看板娘动态模型插件
-=======
-23. [fix bugs](https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/fix-bugs-record%EF%BC%88%E4%BF%AE%E5%A4%8Dbug%E8%AE%B0%E5%BD%95%EF%BC%89)
-24. [添加看板娘动态模型插件](https://github.com/JoeyBling/live2d-widget.js)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-23. [fix bugs](https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/fix-bugs-record%EF%BC%88%E4%BF%AE%E5%A4%8Dbug%E8%AE%B0%E5%BD%95%EF%BC%89)
-24. [添加看板娘动态模型插件](https://github.com/JoeyBling/live2d-widget.js)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 > 如果有小伙伴有新功能的意见或者改进欢迎给我提意见和建议~
 
@@ -89,41 +42,14 @@ hexo-theme-yilia-plus
 - 功能还很少，欢迎各位给我提意见和建议~
 - **本项目源于：[https://github.com/litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia "https://github.com/litten/hexo-theme-yilia")。向作者表示深深的敬意。**
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 [yilia-plus](https://github.com/malqch/hexo-theme-yilia-plus) 是为 [hexo](https://github.com/hexojs/hexo) 2.4+制作的主题。
 崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](https://malqch.github.io) 查看效果。
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-[yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 是为 [hexo](https://github.com/hexojs/hexo) 2.4+制作的主题。
-崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](https://zhousiwei.gitee.io) 查看效果。
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](./examples/images/qrcode.png)
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 ----------
 
 ## 鼓励
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 &#160;&#160;&#160;&#160;**如果觉得本主题还不错，您的支持和鼓励才是后续更新最大的动力，== 欢迎 [Star](https://github.com/malqch/hexo-theme-yilia-plus/stargazers) ==**
-=======
-&#160;&#160;&#160;&#160;**如果觉得本主题还不错，您的支持和鼓励才是后续更新最大的动力，== 欢迎 [Star](https://github.com/JoeyBling/hexo-theme-yilia-plus/stargazers) ==**
-
-![Stargazers over time](https://starchart.cc/JoeyBling/hexo-theme-yilia-plus.svg)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-&#160;&#160;&#160;&#160;**如果觉得本主题还不错，您的支持和鼓励才是后续更新最大的动力，== 欢迎 [Star](https://github.com/JoeyBling/hexo-theme-yilia-plus/stargazers) ==**
-
-![Stargazers over time](https://starchart.cc/JoeyBling/hexo-theme-yilia-plus.svg)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 ## 关于主题：
 1. 崇尚简约
@@ -140,27 +66,12 @@ hexo-theme-yilia-plus
 
 ## 二、开发者
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 &#160;&#160;&#160;&#160;为了性能和开发工程化考虑，[yilia-plus](https://github.com/malqch/hexo-theme-yilia-plus) 需要使用`webpack`进行构建生成。
 如果您对主题有一些定制化的需求，请参考wiki[《yilia-plus源码目录结构及构建须知》](https://github.com/malqch/hexo-theme-yilia-plus/wiki/hexo-theme-yilia-plus%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%8F%8A%E6%9E%84%E5%BB%BA%E9%A1%BB%E7%9F%A5)
 
 #### 评论支持
 - Gitment
 - 基于码云的评论系统
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-&#160;&#160;&#160;&#160;为了性能和开发工程化考虑，[yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 需要使用`webpack`进行构建生成。
-如果您对主题有一些定制化的需求，请参考wiki[《yilia-plus源码目录结构及构建须知》](https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/yilia-plus%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%8F%8A%E6%9E%84%E5%BB%BA%E9%A1%BB%E7%9F%A5)
-
-#### 评论支持
-- [Gitment](https://github.com/imsun/gitment)
-- [基于码云的评论系统](https://gitee.com/zhousiwei/giteement)
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 - DISQUS
 - 搜狐畅言
 
@@ -170,15 +81,7 @@ hexo-theme-yilia-plus
 
 ```bash
 cd ./themes/
-<<<<<<< HEAD
-<<<<<<< HEAD
 git clone --depth=1 https://github.com/malqch/hexo-theme-yilia-plus.git ./yilia-plus
-=======
-git clone --depth=1 https://github.com/JoeyBling/hexo-theme-yilia-plus.git ./yilia-plus
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-git clone --depth=1 https://github.com/JoeyBling/hexo-theme-yilia-plus.git ./yilia-plus
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 ```
 
 #### 2、配置
@@ -196,35 +99,15 @@ git pull
 
 &#160;&#160;&#160;&#160;主题配置文件在主目录下的`_config.yml`，请根据自己需要修改使用。
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 > 完整配置Demo例子，可以参考[yilia-plus博客备份](http://github.com/malqch/yilia-plus-demo)
-=======
-> 完整配置Demo例子，可以参考[yilia-plus博客备份](http://github.com/JoeyBling/yilia-plus-demo)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-> 完整配置Demo例子，可以参考[yilia-plus博客备份](http://github.com/JoeyBling/yilia-plus-demo)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 ```yaml
 # Header-菜单
 menu:
-<<<<<<< HEAD
-<<<<<<< HEAD
   主页: / 
   归档: /archives/index.html 
   相册 & 视频: /photos 
   随笔: /tags/随笔/ 
-=======
-  主页: /
-  技术笔记: https://zhousiwei.gitee.io/ibooks/
-  随笔: /tags/随笔/
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-  主页: /
-  技术笔记: https://zhousiwei.gitee.io/ibooks/
-  随笔: /tags/随笔/
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 # subNav-子导航
 subNav:
@@ -234,32 +117,14 @@ subNav:
   #csdn: "#"
   #rss: "#"
   #zhihu: "#"
-<<<<<<< HEAD
-<<<<<<< HEAD
   #qq: "#"
   #weixin: "#"
-=======
-  #qq: "img/2434387555.jpg"
-  #weixin: "img/weixin_.png"
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-  #qq: "img/2434387555.jpg"
-  #weixin: "img/weixin_.png"
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
   #weibo: "#"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-<<<<<<< HEAD
-<<<<<<< HEAD
   #mail: "mailto:740830230@qq.com"
-=======
-  #mail: "mailto:zhousiwei0911@qq.com"
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-  #mail: "mailto:zhousiwei0911@qq.com"
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -273,15 +138,7 @@ hover_effect:
   # SubNav-导航
   subNav: true
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # RSS订阅
-=======
-# RSS订阅(关于如何配置启用:https://www.jianshu.com/p/2aaac7a19736)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-# RSS订阅(关于如何配置启用:https://www.jianshu.com/p/2aaac7a19736)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 rss: /atom.xml
 
 # 是否需要修改 root 路径
@@ -361,18 +218,8 @@ gitment_oauth:
   client_secret: ''       #client secret
 
 # 4、Giteement----【国内用户建议使用这个，相对比较快】
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 关于如何集成
 # 基于码云的评论系统
-=======
-# 关于如何集成:https://www.jianshu.com/p/f5c4633524c7
-# 基于码云的评论系统(https://gitee.com/zhousiwei/giteement)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-# 关于如何集成:https://www.jianshu.com/p/f5c4633524c7
-# 基于码云的评论系统(https://gitee.com/zhousiwei/giteement)
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 giteement:
   enable: false  # 是否启用码云评论系统
   # 是否使用官方js(false可以提升访问速度)
@@ -411,28 +258,12 @@ clickLove:
 # GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
 github:
   # (关闭请设置为false)
-<<<<<<< HEAD
-<<<<<<< HEAD
   url: https://github.com/malqch/hexo-theme-yilia-plus
-=======
-  url: https://github.com/JoeyBling/hexo-theme-yilia-plus
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-  url: https://github.com/JoeyBling/hexo-theme-yilia-plus
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 # 页脚 Litten(此配置项已弃用)
 # 帮助我们让更多人可以更方便使用Hexo，请尽量不要修改此主题配置
 pageFooter:
-<<<<<<< HEAD
-<<<<<<< HEAD
   litten: GitHub:<a href="https://github.com/malqch/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
-=======
-  litten: GitHub:<a href="https://github.com/JoeyBling/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
-  litten: GitHub:<a href="https://github.com/JoeyBling/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 # 开启百度站长平台主动推送(https://ziyuan.baidu.com/linksubmit/index)
 baidu_push: false
@@ -482,8 +313,6 @@ activate_power_mode:
   shake: false
 
 # 看板娘动态模型插件
-<<<<<<< HEAD
-<<<<<<< HEAD
 live2d:
   live2d:
   # (关闭请设置为false)
@@ -492,44 +321,16 @@ live2d:
   # model: hibiki 
   model: koharu 
   display: 
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-## https://github.com/JoeyBling/live2d-widget.js
-live2d:
-  # (关闭请设置为false)
-  enable: false
-  # 模型名称(取值请参考：https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA)
-  model: hibiki
-  display:
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
     position: right # 显示位置：left/right(default: 'right')
     width: 145  # 模型的长度(default: 150)
     height: 315 # 模型的高度(default: 300)
     hOffset: 50 # 水平偏移(default: 0)
     #vOffset: -20 # 垂直偏移(default: -20)
-<<<<<<< HEAD
-<<<<<<< HEAD
   mobile: 
     show: false # 是否在移动设备上显示(default: true)
     scale: 0.6 # 移动设备上的缩放(default: 0.5)
   react:
     opacity: 0.7 # 模型透明度(default: 0.7)       
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-  mobile:
-    show: false # 是否在移动设备上显示(default: true)
-    scale: 0.6 # 移动设备上的缩放(default: 0.5)
-  react:
-    opacity: 0.8 # 模型透明度(default: 0.7)
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
@@ -561,8 +362,6 @@ smart_menu:
 
 # 友情链接
 friends:
-<<<<<<< HEAD
-<<<<<<< HEAD
   # 技术笔记:  #网站名称
   #   #网站地址
   #   url: https://zhousiwei.gitee.io/ibooks/
@@ -583,64 +382,14 @@ friends:
   
 # 关于我
 aboutme: 这样的我：<br><br>python程序猿一枚<br>爱好读书、运动、coding<br><br>联系QQ:740830230<br><br>简单生活，快乐工作<br><br>欢迎大家多提宝贵意见<br>谢谢大家
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-  技术笔记:  #网站名称
-    #网站地址
-    url: https://zhousiwei.gitee.io/ibooks/
-    #网站图片(可忽略不写)
-    img: https://zhousiwei.gitee.io/ibooks/favicon.ico
-    #网站简介(可忽略不写)
-    description: 记录工作和学习过程中的笔记：Java、前端开发、Hexo博客、聚合支付、Linux笔记、ElasticSearch、ELK日志分析
-  GitHub:
-    url: https://github.com/JoeyBling
-  码云:
-    url: https://gitee.com/zhousiwei
-  简书:
-    url: https://www.jianshu.com/u/02cbf31a043a
-  CSDN:
-    url: https://blog.csdn.net/qq_30930805
-
-# 关于我
-aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众号开发、开源爱好者、Linux<br><br>联系QQ:2434387555<br><br>很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
 ```
 
 ## 捐赠
 &#160;&#160;&#160;&#160;**如果感觉对您有帮助，请作者喝杯咖啡吧，请注明您的名字或者昵称，方便作者感谢o(*￣︶￣*)o**
 
 | 微信 | 支付宝 |
-| :---: | :---: |
-| ![](./examples/images/weixin.png) | ![](./examples/images/alipay.jpeg) |
+![微信](./examples/images/weixin.png) | ![支付宝](./examples/images/alipay.jpeg) |
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## License
 
 [![LICENSE](https://img.shields.io/github/license/malqch/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
-=======
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-### Hexo博客优化
-- [Hexo博客集成码云评论系统](https://www.jianshu.com/p/f5c4633524c7)
-- [Hexo博客集成Gitment评论](https://www.jianshu.com/p/ac7658cc912f)
-- [Hexo 编译文档时 JS或HTML 混乱解决方案](https://www.jianshu.com/p/2a8b850d3f92)
-- [Hexo博客配置RSS插件](https://www.jianshu.com/p/2aaac7a19736)
-- [Hexo博客使用gulp压缩静态资源](https://www.jianshu.com/p/1123c89c491a)
-- [新增Hexo博客文章置顶功能](https://www.jianshu.com/p/a0afac70afc8)
-- [Hexo博客添加helper-live2d动态模型插件](https://www.jianshu.com/p/a7f4a42e4b49)
-- [Hexo博客添加访问量统计](https://www.jianshu.com/p/c9f83d5b893a)
-- [Hexo博客yilia主题添加背景音乐 （网易云音乐）](https://www.jianshu.com/p/f3fe5cb74d32)
-- [使用Hexo+GitHub搭建免费个人博客](https://www.jianshu.com/p/efebead840b2)
-
-## License
-
-[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
-<<<<<<< HEAD
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
-=======
->>>>>>> eb3819d433f45df16fc32710dc5e67ce6d85b98a
